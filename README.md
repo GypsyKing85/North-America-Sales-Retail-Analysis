@@ -126,11 +126,18 @@ GROUP BY Sub_Category
 ```
 
 ## Insights/Findings
+* Chairs and Bookcases have the fastest average delivery times, which could indicate efficient supply chain management for these subcategories.
+* Tables have the slowest delivery times, which may lead to customer dissatisfaction.
+* Chairs generate the most profit ($36,471.1) while tables generate the least profit.
+* Furnishings has the largest number of products, indicating a wide variety and possibly a strong market presence.
+* Tables has the fewest products, which may limit customer choice and impact sales.
+* The top 5 customers contributing the most profit are:Laura Armstrong, Joe Elijah, Seth Vernon, Quincy Jones, Maria Etezadi
 
 
-
-
-
-
-
-## Recommendation
+## Recommendations
+* Improve logistics efficiency for slow-delivery subcategories (Tables, Furnishings) and Corporate segment.
+* Investigate extreme delays (214 days) for certain slow-moving products and fix supply chain inefficiencies.
+* Offer expedited shipping options for high-value customers or products
+* Maximize marketing and promotions for high-profit products (Chairs) and profitable segments (Consumers).
+* Retain top customers with loyalty programs and personalized offers.
+* Re-evaluate product variety in low-profit categories (Tables and Furnishings) to optimize sales strategy.
